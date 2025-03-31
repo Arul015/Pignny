@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.mt-5{
+    margin-top: 50px;
+}
+.forms{
+    padding: 20px 20px;
+    background-color: #f2f2f2;
+}
+label{
+    text-size:10px
+}
